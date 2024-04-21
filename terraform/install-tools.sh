@@ -1,5 +1,5 @@
 #!/bin/bash
-# For Ubuntu 22.04
+# For Ubuntu 22.04 version
 
 set -e # Exit script immediately on first error.
 
